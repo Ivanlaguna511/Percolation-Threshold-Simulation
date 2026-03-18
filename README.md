@@ -22,10 +22,8 @@ This project models a physical percolation system (often used in chemistry and m
 The primary objective of the algorithm is to detect the exact moment a contiguous path of conducting cells connects the top row to the bottom row (a short circuit or "percolation"), utilizing a **Monte Carlo Simulation**.
 
 <img width="827" height="302" alt="image" src="https://github.com/user-attachments/assets/a8a8784d-e533-41f9-9b53-262ea6e21186" />
-
-
-
-
+<br>
+<br>
 <img width="568" height="392" alt="image" src="https://github.com/user-attachments/assets/0b1c950c-cb45-4d86-8689-8111c62f8c33" />
 
 ### Tech Stack
